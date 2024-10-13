@@ -4,7 +4,7 @@ import 'package:file_picker/file_picker.dart';
 import 'package:flutter/material.dart';
 import 'package:video_creator/styles/colors.dart';
 
-import 'helpers/file_picker_helper.dart'; // Ճիշտ ուղի
+import 'helpers/file_picker_helper.dart';
 import 'styles/button_styles.dart';
 import 'styles/container_styles.dart';
 import 'styles/text_styles.dart';
