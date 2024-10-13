@@ -1,7 +1,6 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:video_creator/styles/colors.dart';
-
 import '../styles/text_styles.dart';
 
 class AudioPlayerWidget extends StatefulWidget {
